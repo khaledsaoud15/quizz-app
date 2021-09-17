@@ -1,0 +1,31 @@
+.card{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+.header{
+    height: 80px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid-2{
+    border: 1px solid #999;
+    margin: 20px 0;
+    padding:0 20px;
+    border-radius: 20px;
+}
+
+.ans {
+    display: flex;
+}
